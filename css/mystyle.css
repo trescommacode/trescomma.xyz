@@ -7,6 +7,17 @@
   max-width: 50px;
 }
 
-.menu-icon {
-  width: ;
+.main-action-section {
+  align-items: center;
+}
+
+.icon {
+  height: 40px;
+  margin: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .site-tittle {
+    font-size: 25px;
+  }
 }
